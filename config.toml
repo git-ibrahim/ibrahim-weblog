@@ -1,4 +1,4 @@
 baseURL = "http://git-ibrahim.github.io/ibrahim-weblog/"
 languageCode = 'en-us'
-title = 'Ibrahim Patel'
+title = 'I am Ibrahim Patel'
 theme = "hugo-coder"
