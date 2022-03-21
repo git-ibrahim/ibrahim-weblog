@@ -130,7 +130,8 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+#url = "about/"
+url = "https://registry.jsonresume.org/git-ibrahim?theme=kendall"
 
 [[languages.en.menu.main]]
 name = "Blog"
